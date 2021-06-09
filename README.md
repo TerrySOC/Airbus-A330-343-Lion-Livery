@@ -5,6 +5,5 @@ Changes:
 1. fixed lack of details
 2. better paintjob
 3. fixed some painjobs
-
-![fgfs-20210609061254](https://user-images.githubusercontent.com/85540333/121304282-5a8c0c80-c926-11eb-94e0-37c7123877b8.png)
+![fgfs-20210609062531](https://user-images.githubusercontent.com/85540333/121304470-9626d680-c926-11eb-9028-d57aef6dca17.png)
 
